@@ -1,0 +1,5 @@
+Host mlops-zoomcamp 
+    HostName 34.125.246.75
+    User w10
+    IdentityFile C:\Users\w10\.ssh\gcp_mlops
+    LocalForward 8888 localhost:8888
