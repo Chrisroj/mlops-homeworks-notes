@@ -1,4 +1,4 @@
-# Introduction
+# Table Of Contents
 
 1. [Module 1: Introduction](#module1)
 
@@ -14,7 +14,7 @@
     
     1.4 [MLOps Maturity Model](#maturity)
     
-This notes are about [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+This notes are about [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) module 1.
 
 # Module 1: Introduction <a name="module1"></a>
 
