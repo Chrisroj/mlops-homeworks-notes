@@ -1,7 +1,7 @@
 # SSH keys in Github
 
 ## Generate SSH keys
-1. Generate ssh keys, go to ```~/.ssh``` directory and type:
+1. Generate ssh keys, go to ```~/.ssh```(if exist) directory and type:
 
     ```bash
     ssh-keygen -o
